@@ -2,14 +2,7 @@
 
 > React Native modal component for viewing images as a sliding gallery.
 
-- 🔥Pinch zoom for both iOS and Android
-- 🔥Double tap to zoom for both iOS and Android
-- 🔥Supports swipe-to-close animation
-- 🔥Custom header and footer components
-- 🔥Uses VirtualizedList to optimize image loading and rendering
-
-
-## Installation
+<!-- ## Installation
 
 ```bash
 yarn add rn-image-viewing
@@ -19,7 +12,7 @@ or
 
 ```bash
 npm install --save rn-image-viewing
-```
+``` -->
 
 ## Usage
 
