@@ -2,7 +2,7 @@
 
 > React Native modal component for viewing images as a sliding gallery.
 
-<!-- ## Installation
+## Installation
 
 ```bash
 yarn add rn-image-viewing
@@ -12,7 +12,7 @@ or
 
 ```bash
 npm install --save rn-image-viewing
-``` -->
+```
 
 ## Usage
 

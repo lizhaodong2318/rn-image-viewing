@@ -1,12 +1,12 @@
 {
   "name": "rn-image-viewing",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React Native modal component for viewing images as a sliding gallery",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "git+"
+    "url": "git+https://github.com/lizhaodong2318/rn-image-viewing"
   },
   "keywords": [
     "react",
@@ -34,7 +34,7 @@
   "bugs": {
     "url": ""
   },
-  "homepage": "",
+  "homepage": "https://github.com/lizhaodong2318/rn-image-viewing#readme",
   "devDependencies": {
     "@babel/runtime": "7.7.4",
     "@types/react": "16.9.13",
